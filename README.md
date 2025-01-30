@@ -1,5 +1,5 @@
 # Hi, I'm Suriyanarayanan Rajakumar 👋
-You can call me **Suriya**
+You can call me **Suriya!**
 
 Welcome to my GitHub profile! I'm a **Data Analyst** with a background in **International Business Management** and **Agriculture**. Currently, I'm pursuing **Data Analytics for Business Decision Making** at Durham College. I have hands-on experience with **Python**, **Excel**, and other tools to turn data into actionable insights.
 
