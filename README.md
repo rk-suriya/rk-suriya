@@ -9,18 +9,22 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with a background in **Inte
 - 🌱 **Learning & Exploring:** Data Analysis, Machine Learning, and Business Intelligence
 - 💼 **Experience:** Intermediate knowledge of Python and Excel, proficient in MS Office Suite
 - 💻 **Tools & Technologies I Use:**
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white) 
-  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+  - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+  - ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
+  - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🛠️ Out-of-the-Box Skills
 
 - **Photo & Video Editing:** 
-  - ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-  - ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-  - ![Canva](https://img.shields.io/badge/-Canva-3B3A3A?style=flat&logo=canva&logoColor=white)
+  - ![Adobe Photoshop](https://upload.wikimedia.org/wikipedia/commons/2/2f/Adobe_Photoshop_CC_icon.png)
+  - ![Adobe Premiere Pro](https://upload.wikimedia.org/wikipedia/commons/a/a5/Adobe_Premiere_Pro_CC_icon.png)
+  - ![Canva](https://upload.wikimedia.org/wikipedia/commons/3/37/Canva_logo.png)
 - **Data Analysis & Visualization:** Python (Pandas, NumPy), Power BI, Tableau, SQL
 - **Programming:** Python
+
 
 ## 🌱 My Guided Project
 
