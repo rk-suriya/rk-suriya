@@ -15,7 +15,10 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with a background in **Inte
 
 ## 🛠️ Out-of-the-Box Skills
 
-- **Photo & Video Editing:** Adobe Photoshop, Adobe Premiere Pro, Canva
+- **Photo & Video Editing:** 
+  - ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+  - ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+  - ![Canva](https://img.shields.io/badge/-Canva-3B3A3A?style=flat&logo=canva&logoColor=white)
 - **Data Analysis & Visualization:** Python (Pandas, NumPy), Power BI, Tableau, SQL
 - **Programming:** Python
 
