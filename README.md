@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with a background in **Inte
 ## 📫 How to Reach Me
 
 - Email: rs.suriya@proton.me
-- LinkedIn: [Suriya Rajakumar](www.linkedin.com/in/suriyar7)
+- LinkedIn: [Suriya Rajakumar](https://www.linkedin.com/in/suriyar7/)
 
 ---
 
