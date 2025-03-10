@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with a background in **Inte
 
 ## 📈 Stats
 
-![Suriyanarayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Suriyanarayanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-suriya&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ## 📫 How to Reach Me
 
